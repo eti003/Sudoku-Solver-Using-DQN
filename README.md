@@ -1,1 +1,1 @@
-# Sudoku-Solver-Using-DQN
+# Sudoku-Solver-Using-Q-Learning
